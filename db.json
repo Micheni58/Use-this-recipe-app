@@ -1,0 +1,70 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Classic Margherita Pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80e7a3",
+      "cuisine": "Italian",
+      "description": "A simple yet delicious pizza with fresh tomatoes, mozzarella, and basil.",
+      "prepTime": 30,
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "1/2 cup tomato sauce",
+        "1 cup fresh mozzarella",
+        "Fresh basil leaves",
+        "1 tbsp olive oil"
+      ],
+      "instructions": [
+        "Preheat oven to 450°F",
+        "Roll out dough to form pizza base",
+        "Spread tomato sauce evenly",
+        "Add mozzarella and basil",
+        "Bake for 15-20 minutes"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Chicken Stir-Fry",
+      "imageUrl": "https://images.unsplash.com/photo-1604901267390-b4314a0a06f8",
+      "cuisine": "Asian",
+      "description": "A quick and healthy stir-fry with chicken and colorful vegetables.",
+      "prepTime": 25,
+      "ingredients": [
+        "2 chicken breasts",
+        "1 bell pepper",
+        "1 cup broccoli florets",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil"
+      ],
+      "instructions": [
+        "Slice chicken into thin strips",
+        "Heat sesame oil in a wok",
+        "Add chicken and cook until browned",
+        "Add vegetables and stir-fry",
+        "Add soy sauce and cook for 5 minutes"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Chip Cookies",
+      "imageUrl": "https://images.unsplash.com/photo-1598961945651-1f90a6e7d0a2",
+      "cuisine": "American",
+      "description": "Soft and chewy cookies packed with chocolate chips.",
+      "prepTime": 20,
+      "ingredients": [
+        "1 cup butter",
+        "3/4 cup brown sugar",
+        "2 cups all-purpose flour",
+        "1 cup chocolate chips",
+        "1 tsp vanilla extract"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F",
+        "Cream butter and sugar together",
+        "Add flour and vanilla, mix well",
+        "Fold in chocolate chips",
+        "Bake for 10-12 minutes"
+      ]
+    }
+  ]
+}

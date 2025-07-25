@@ -1,4 +1,4 @@
-const SPOONACULAR_API_KEY = "63738a5eb856465ab088011a9f9f71f4" // Replace with your valid API key
+const SPOONACULAR_API_KEY = "3af6ca3b09ae4292a28e70fb028914ef" // Replace with your valid API key
 const BASE_URL = "https://api.spoonacular.com"
 
 
